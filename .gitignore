@@ -2,6 +2,7 @@
 
 # dependencies
 /jeedecodenew/node_modules
+/jeedecodenew/.env
 /server/node_modules
 /imageUploadNew
 /.pnp
